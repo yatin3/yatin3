@@ -53,9 +53,7 @@ Improved query performance by **50%** and system reliability by **30%**.
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://your-portfolio-url.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yatin-goyal-958132208/)
 
 ---
 
